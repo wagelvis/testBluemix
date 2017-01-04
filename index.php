@@ -53,6 +53,11 @@
     <body>
     
         <div class="container">
+
+            <div class="row">
+                <h1>BLUEMIX - Chat deploy from GitHub</h1>
+            </div>
+
             <div class="row">
                 <!-- inicio de la caja de chat con bootstrap -->
                 <div class="col-md-6 col-md-offset-3">
