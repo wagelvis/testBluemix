@@ -58,7 +58,7 @@
                 <div class="col-md-6 col-md-offset-3">
                     <div class="panel panel-primary">
                         <div class="panel-heading">
-                            <span class="glyphicon glyphicon-comment"></span> Chat Firebase
+                            <span class="glyphicon glyphicon-comment"></span> BLUEMIX - Chat Firebase
                         </div>
                         <div class="panel-body">
                             <ul class="chat"> </ul>
