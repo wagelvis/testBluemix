@@ -55,8 +55,10 @@
         <div class="container">
 
             <div class="row">
-                <h1>BLUEMIX - Chat deploy from GitHub</h1>
+                <h1 class="text-center">BLUEMIX - Chat deploy from GitHub</h1>
             </div>
+
+            <hr>
 
             <div class="row">
                 <!-- inicio de la caja de chat con bootstrap -->
